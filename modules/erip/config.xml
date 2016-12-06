@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>ЕРИП</name>
+            <displayName><![CDATA[ЕРИП]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[Приём платежей через систему ЕРИП]]></description>
+            <author><![CDATA[ЕРИП]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Вы уверены, что хотите удалить модуль ЕРИП?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
